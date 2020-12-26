@@ -9,7 +9,7 @@
 - 🥅 Purdue University Senior Undergrad 
 - ⚡ Japanese and avid manga reader and anime watcher 
 
-### Starting a new business called Enfty.inc
+### Starting a new business called Enfty inc.
 [![Website](https://img.shields.io/website?label=enfty.com&style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)
 
 ### Languages and Tools:
