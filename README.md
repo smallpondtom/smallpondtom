@@ -1,17 +1,13 @@
-### Hi, I'm Tomo!  
+## TOMO KOIKE 
 
-## Aeronautical & Astronautical Engineer 
-## Autonomy and Controls!
+### Aeronautical & Astronautical Engineer 
+### Autonomy and Controls
 
 - 🥅 Purdue University Senior Undergrad 
 - ⚡ Japanese and avid mange reader and anime watcher 
 
 ### Starting a new business called Enfty.inc
 [![Website](https://img.shields.io/website?label=enfty.com&style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)
-
-### Connect with me:
-
-[<img align="left" alt="Tomoki Koike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -36,17 +32,12 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
-</details>
 
-<details>
 
 [![smallpondtom's github stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
