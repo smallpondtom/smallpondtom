@@ -1,16 +1,17 @@
-### Hi, I'm Tomo!  [codeSTACKr][website] 👋
+### Hi, I'm Tomo!  
 
-## I'm an Aeronautical & Astronautical Engineer specializing in Autonomy and Controls!
+## Aeronautical & Astronautical Engineer 
+## Autonomy and Controls!
 
 - 🥅 Purdue University Senior Undergrad 
 - ⚡ Japanese and avid mange reader and anime watcher 
 
 ### Starting a new business called Enfty.inc
-[![Website](https://img.shields.io/website?label=&enfty.com/style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)
+[![Website](https://img.shields.io/website?label=&enfty.com/style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)]
 
 ### Connect with me:
 
-[<img align="left" alt="Tomoki Koike | LinkedIn" width="22px" src="https://www.linkedin.com/in/tomoki-koike-903a67185/" />][linkedin]
+[<img align="left" alt="Tomoki Koike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
