@@ -34,7 +34,7 @@
   
 <!--START_SECTION:activity-->
 
-<br />
+<!--END_SECTION:activity-->
 
 ---
 
