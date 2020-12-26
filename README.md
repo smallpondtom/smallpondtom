@@ -33,6 +33,8 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/smallpondtom/SDITAA/issues/1) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
+<!--END_SECTION:activity-->
 
 
 ---
