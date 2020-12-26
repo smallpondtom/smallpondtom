@@ -2,7 +2,7 @@
 
 ### Aeronautical & Astronautical Engineer 
 
-<img hight="200" width="250" alt="GIF" align="right" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
+<img hight="180" width="250" alt="GIF" align="right" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
 
 ### Autonomy and Controls
 
