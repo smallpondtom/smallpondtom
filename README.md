@@ -39,10 +39,11 @@
 1. ❗️ Opened issue [#1](https://github.com/smallpondtom/SDITAA/issues/1) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
 <!--END_SECTION:activity-->
 
-<img hight="150" width="450" alt="GIF" align="right" src="archlinux-logo-dark-90dpi.ebdee92a15b3.png">
+<img hight="150" width="450" alt="IMG" align="right" src="archlinux-logo-dark-90dpi.ebdee92a15b3.png">
 ---
 
 [![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-five-lake.vercel.app/api/top-langs/?username=smallpondtom)](https://github.com/anuraghazra/github-readme-stats)
 
+<img hight="270" width="480" alt="GIF" align="right" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
