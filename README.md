@@ -7,7 +7,7 @@
 - ⚡ Japanese and avid mange reader and anime watcher 
 
 ### Starting a new business called Enfty.inc
-[![Website](https://img.shields.io/website?label=&enfty.com/style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)]
+[![Website](https://img.shields.io/website?label=&enfty.com/style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)
 
 ### Connect with me:
 
