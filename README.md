@@ -9,8 +9,6 @@
 ### Starting a new business called Enfty.inc
 [![Website](https://img.shields.io/website?label=enfty.com&style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
@@ -31,12 +29,10 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
-</details>  
 
 
 [![smallpondtom's github stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
