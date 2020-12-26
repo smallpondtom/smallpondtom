@@ -44,6 +44,7 @@
 
 [![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<img hight="270" width="480" alt="GIF" align="right" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
+
 [![Top Langs](https://github-readme-stats-five-lake.vercel.app/api/top-langs/?username=smallpondtom)](https://github.com/anuraghazra/github-readme-stats)
 
-<img hight="270" width="480" alt="GIF" align="right" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
