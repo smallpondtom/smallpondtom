@@ -1,8 +1,8 @@
 ## TOMO KOIKE 
 
-### Aeronautical & Astronautical Engineer - Autonomy and Controls
-
 <img height="190" width="250" alt="GIF" align="right" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
+
+### Aeronautical & Astronautical Engineer - Autonomy and Controls
 
 - 🥅 Purdue University Senior Undergrad 
 - ⚡ Japanese and avid manga reader and anime watcher 
