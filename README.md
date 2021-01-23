@@ -37,11 +37,11 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
+1. ❗️ Closed issue [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
 2. 🗣 Commented on [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
 3. 🗣 Commented on [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
 4. 🗣 Commented on [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
-5. ❗️ Opened issue [#1](https://github.com/smallpondtom/SDITAA/issues/1) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
+5. 🗣 Commented on [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
 <!--END_SECTION:activity-->
 
 ---
