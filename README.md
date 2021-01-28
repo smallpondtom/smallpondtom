@@ -37,10 +37,10 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-2. 💪 Opened PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-3. ❗️ Closed issue [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
-4. 🗣 Commented on [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
+1. ❌ Closed PR [#3](https://github.com/smallpondtom/aae451-senior-design/pull/3) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
+2. 🎉 Merged PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
+3. 💪 Opened PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
+4. ❗️ Closed issue [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
 5. 🗣 Commented on [#2](https://github.com/smallpondtom/SDITAA/issues/2) in [smallpondtom/SDITAA](https://github.com/smallpondtom/SDITAA)
 <!--END_SECTION:activity-->
 
