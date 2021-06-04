@@ -38,10 +38,10 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/smallpondtom/aae451-senior-design/issues/7) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
+1. 🗣 Commented on [#18](https://github.com/manaakiwhenua/pycrown/issues/18) in [manaakiwhenua/pycrown](https://github.com/manaakiwhenua/pycrown)
 2. 🗣 Commented on [#7](https://github.com/smallpondtom/aae451-senior-design/issues/7) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-3. 🎉 Merged PR [#6](https://github.com/smallpondtom/aae451-senior-design/pull/6) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-4. 🎉 Merged PR [#5](https://github.com/smallpondtom/aae451-senior-design/pull/5) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
+3. 🗣 Commented on [#7](https://github.com/smallpondtom/aae451-senior-design/issues/7) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
+4. 🎉 Merged PR [#6](https://github.com/smallpondtom/aae451-senior-design/pull/6) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
 5. 🎉 Merged PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
 <!--END_SECTION:activity-->
 
