@@ -4,7 +4,7 @@
 
 ### Aeronautical & Astronautical Engineer - Autonomy and Controls
 
-- 🥅 Purdue University Senior Undergrad 
+- 🥅 Purdue Uni => Georgia Tech
 - ⚡ Japanese and avid soccer fan. Man of culture.
 
 ### Starting a new business called Enfty inc.
