@@ -1,16 +1,5 @@
 ## TOMO KOIKE 
 
-<style>
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-</style>
-
 <img height="190" width="250" alt="GIF" align="right" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
 
 ### Aeronautical & Astronautical Engineer - Autonomy and Controls
@@ -49,9 +38,9 @@
 ### :zap: GitHub History
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" width="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="100" /> 
-  <img alt="IMG" src="ubuntu-logo32.png" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="100%" /> 
+  <img alt="IMG" src="ubuntu-logo32.png" width="100%" />
 </p>
 
 <!-- <p align="left">
