@@ -5,7 +5,7 @@
 ### Aeronautical & Astronautical Engineer - Autonomy and Controls
 
 - 🥅 Purdue Uni => Georgia Tech
-- ⚡ Japanese and avid soccer fan. Man of culture.
+- ⚡ Japanese and avid soccer fan. 
 
 ### Starting a new business called Enfty inc.
 [![Website](https://img.shields.io/website?label=enfty.com&style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)
@@ -49,17 +49,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="40%" /> 
 <p/>
 
-<!-- <p align="left">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style='float:left'>
-![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical)
-</p>
-
-<p align="right">
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style='float:right'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p> -->
-
 <br />
-
 
 [![smallpondtom's github activity graph](https://activity-graph.herokuapp.com/graph?username=smallpondtom&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
