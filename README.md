@@ -46,19 +46,13 @@
 
 ---
 
-### :zap: Recent GitHub Activity
+### :zap: GitHub History
 
-<div class="row">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style="width:100%">
-  </div>
-  <div class="column">
-    <img alt="IMG" src="ubuntu-logo32.png" style="width:100%">
-  </div>
-</div>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" width="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="100" /> 
+  <img alt="IMG" src="ubuntu-logo32.png" width="100" />
+</p>
 
 <!-- <p align="left">
   <a><img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style='float:left'>
