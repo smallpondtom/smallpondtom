@@ -53,8 +53,6 @@
 
 <img height="100" width="300" alt="IMG" align="right" src="archlinux-logo-dark-90dpi.ebdee92a15b3.png">
 
-[![smallpondtom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smallpondtom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- [![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img height="270" width="480" alt="GIF" align="left" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
