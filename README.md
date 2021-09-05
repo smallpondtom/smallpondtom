@@ -47,7 +47,7 @@
 
 ---
 
-<p align="left">
+<p align="left", style='float:left'>
   <a><img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats">
 <!-- ![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical) -->
 </p>
