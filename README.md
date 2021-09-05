@@ -58,7 +58,7 @@
 <!-- [![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<img height="100" width="300" alt="IMG" align="right" src="ubuntu-logo32.png">
+<img alt="IMG" align="right" src="ubuntu-logo32.png">
 
 
 [![smallpondtom's github activity graph](https://activity-graph.herokuapp.com/graph?username=smallpondtom&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
