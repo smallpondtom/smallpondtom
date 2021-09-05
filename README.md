@@ -63,13 +63,13 @@
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style="width:100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style="width:32.5%">
   </div>
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style="width:100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style="width:32.5%">
   </div>
   <div class="column">
-    <img alt="IMG" src="ubuntu-logo32.png" style="width:100%">
+    <img alt="IMG" src="ubuntu-logo32.png" style="width:32.5%">
   </div>
 </div>
 
