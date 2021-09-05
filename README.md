@@ -47,15 +47,27 @@
 
 ---
 
-<p align="left">
+<div class="row">
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style="width:100%">
+  </div>
+  <div class="column">
+    <img alt="IMG" src="ubuntu-logo32.png" style="width:100%">
+  </div>
+</div>
+
+<!-- <p align="left">
   <a><img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style='float:left'>
-<!-- ![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical) -->
+![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical)
 </p>
 
 <p align="right">
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style='float:right'>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p> -->
 
 <p align="right">
   <a><img height="270" width="480" alt="GIF" align="left" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
