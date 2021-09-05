@@ -1,5 +1,21 @@
 ## TOMO KOIKE 
 
+<style>
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 <img height="190" width="250" alt="GIF" align="right" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
 
 ### Aeronautical & Astronautical Engineer - Autonomy and Controls
