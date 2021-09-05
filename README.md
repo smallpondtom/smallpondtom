@@ -38,9 +38,9 @@
 ### :zap: GitHub History
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="100%" /> 
-  <img alt="IMG" src="ubuntu-logo32.png" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" width="32.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="32.5%" /> 
+  <img alt="IMG" src="ubuntu-logo32.png" width="32.5%" />
 </p>
 
 <!-- <p align="left">
