@@ -46,7 +46,7 @@
 
 <p float="left">
   <img width="50%" alt="GIF" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="40%" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="40%" /> 
 <p/>
 
 <!-- <p align="left">
