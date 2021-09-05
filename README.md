@@ -49,7 +49,10 @@
 
 ![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+</p>
 
 <p align="right">
   <a><img height="270" width="480" alt="GIF" align="left" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
