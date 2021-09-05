@@ -1,16 +1,13 @@
 ## TOMO KOIKE 
 
 <style>
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+.row {
+  display: flex;
 }
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.column {
+  flex: 33.33%;
+  padding: 5px;
 }
 </style>
 
@@ -50,26 +47,16 @@
 ---
 
 ### :zap: Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#18](https://github.com/manaakiwhenua/pycrown/issues/18) in [manaakiwhenua/pycrown](https://github.com/manaakiwhenua/pycrown)
-2. 🗣 Commented on [#7](https://github.com/smallpondtom/aae451-senior-design/issues/7) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-3. 🗣 Commented on [#7](https://github.com/smallpondtom/aae451-senior-design/issues/7) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-4. 🎉 Merged PR [#6](https://github.com/smallpondtom/aae451-senior-design/pull/6) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-5. 🎉 Merged PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design) -->
-<!--END_SECTION:activity-->
-
----
 
 <div class="row">
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style="width:32.5%">
+    <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style="width:32.5%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style="width:100%">
   </div>
   <div class="column">
-    <img alt="IMG" src="ubuntu-logo32.png" style="width:32.5%">
+    <img alt="IMG" src="ubuntu-logo32.png" style="width:100%">
   </div>
 </div>
 
