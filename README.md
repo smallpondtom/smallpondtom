@@ -39,13 +39,13 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" width="58%" />
-  <img alt="IMG" align="right" src="ubuntu-logo32.png" width="30%">
+  <img alt="IMG" align="right" src="ubuntu-logo32.png" width="20%">
 </p>
 
 <br />
 
 <p float="left">
-  <img width="40%" alt="GIF" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
+  <img width="50%" alt="GIF" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="40%" /> 
 <p/>
 
