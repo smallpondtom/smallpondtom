@@ -38,20 +38,28 @@
 ### :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/manaakiwhenua/pycrown/issues/18) in [manaakiwhenua/pycrown](https://github.com/manaakiwhenua/pycrown)
+<!-- 1. 🗣 Commented on [#18](https://github.com/manaakiwhenua/pycrown/issues/18) in [manaakiwhenua/pycrown](https://github.com/manaakiwhenua/pycrown)
 2. 🗣 Commented on [#7](https://github.com/smallpondtom/aae451-senior-design/issues/7) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
 3. 🗣 Commented on [#7](https://github.com/smallpondtom/aae451-senior-design/issues/7) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
 4. 🎉 Merged PR [#6](https://github.com/smallpondtom/aae451-senior-design/pull/6) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
-5. 🎉 Merged PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design)
+5. 🎉 Merged PR [#2](https://github.com/smallpondtom/aae451-senior-design/pull/2) in [smallpondtom/aae451-senior-design](https://github.com/smallpondtom/aae451-senior-design) -->
 <!--END_SECTION:activity-->
 
 ---
 
+![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <img height="100" width="300" alt="IMG" align="right" src="archlinux-logo-dark-90dpi.ebdee92a15b3.png">
 
-[![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![smallpondtom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smallpondtom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <img height="270" width="480" alt="GIF" align="left" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
+
+[![smallpondtom's github activity graph](https://activity-graph.herokuapp.com/graph?username=smallpondtom&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="right">
   <a><img src="https://github-readme-stats-five-lake.vercel.app/api/top-langs/?username=smallpondtom" alt="Tomo's github lang stats"></a>
