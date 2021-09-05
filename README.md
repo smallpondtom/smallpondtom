@@ -39,8 +39,16 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="41%" /> 
+  
+  <img alt="IMG" align="right" src="ubuntu-logo32.png" width="41%">
 </p>
+
+<br />
+
+<p float="left">
+  <img width="60%" alt="GIF" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" width="41%" /> 
+<p/>
 
 <!-- <p align="left">
   <a><img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style='float:left'>
@@ -52,18 +60,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p> -->
 
-<p align="right">
-  <a><img height="270" width="480" alt="GIF" align="left" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
-</p>
-  
-<!-- [![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<img alt="IMG" align="right" src="ubuntu-logo32.png">
+<br />
 
 
 [![smallpondtom's github activity graph](https://activity-graph.herokuapp.com/graph?username=smallpondtom&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="right">
-  <a><img src="https://github-readme-stats-five-lake.vercel.app/api/top-langs/?username=smallpondtom" alt="Tomo's github lang stats"></a>
-</p>
