@@ -51,11 +51,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="100" width="300" alt="IMG" align="right" src="archlinux-logo-dark-90dpi.ebdee92a15b3.png">
-
+<p align="right">
+  <a><img height="270" width="480" alt="GIF" align="left" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
+</p>
+  
 <!-- [![smallpondtom's github stats](https://github-readme-stats-five-lake.vercel.app/api?username=smallpondtom&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img height="270" width="480" alt="GIF" align="left" src="https://media.giphy.com/media/TdoiN7rZuGDJPs2rAS/giphy.gif">
+
+<img height="100" width="300" alt="IMG" align="right" src="ubuntu-logo32.png">
+
 
 [![smallpondtom's github activity graph](https://activity-graph.herokuapp.com/graph?username=smallpondtom&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
