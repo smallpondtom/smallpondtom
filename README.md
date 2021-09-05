@@ -52,7 +52,7 @@
 <!-- ![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical) -->
 </p>
 
-<p align="right">
+<p align="right", style='float:right'>
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs">
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 </p>
