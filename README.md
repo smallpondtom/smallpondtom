@@ -47,13 +47,13 @@
 
 ---
 
-<p align="left", style='float:left'>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats">
+<p align="left">
+  <a><img src="https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical" alt="smallpondtom's github stats" style='float:left'>
 <!-- ![smallpondtom's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallpondtom&show_icons=true&count_private=true&theme=radical) -->
 </p>
 
-<p align="right", style='float:right'>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs">
+<p align="right">
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical" alt="smallpondtom's top langs" style='float:right'>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallpondtom&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 </p>
 
