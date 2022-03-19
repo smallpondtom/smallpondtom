@@ -7,7 +7,7 @@
 - 🥅 Purdue Uni => Georgia Tech
 - ⚡ Japanese and avid soccer fan. 
 
-### Starting a new business called Enfty inc.
+### Enfty inc.
 [![Website](https://img.shields.io/website?label=enfty.com&style=for-the-badge&url=https://www.enfty.com/)](https://www.enfty.com/)
 
 ### Languages and Tools:
