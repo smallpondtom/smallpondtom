@@ -1,4 +1,4 @@
-## TOMO KOIKE 
+## TOM KOIKE 
 
 <img height="190" width="250" alt="GIF" align="right" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
 
