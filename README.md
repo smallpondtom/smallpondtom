@@ -2,7 +2,7 @@
 
 <img height="190" width="250" alt="GIF" align="right" src="https://media.giphy.com/media/l4KhQo2MESJkc6QbS/giphy.gif">
 
-### Aeronautical & Astronautical Engineer - Autonomy and Controls
+### Aeronautical & Astronautical Engineer - Computational Engineer, Autonomy and Controls
 
 - 🥅 Purdue Uni => Georgia Tech
 - ⚡ Japanese and avid soccer fan. 
